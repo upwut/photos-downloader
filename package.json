@@ -1,5 +1,5 @@
 {
-    "name": "google-photos-downloader",
+    "name": "photos-downloader",
     "version": "1.6.2",
     "description": "Downloads photos from Google Photos.",
     "main": "index.js",
@@ -13,7 +13,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/mattd/google-photos-downloader.git"
+        "url": "git+https://github.com/upwut/photos-downloader.git"
     },
     "keywords": [
         "google",
